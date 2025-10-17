@@ -1,0 +1,7 @@
+The Smart Recipe Generator was independently developed using Next.js, with the initial framework designed through Vercel’s v0 builder and further customized to align with the project’s objectives. The entire implementation, including architectural design, integration logic, and deployment configuration, was carried out by me to ensure originality and functionality.
+
+The application leverages AI to generate intelligent and personalized recipe suggestions based on user-provided ingredients, preferences, and dietary requirements. A modular architecture was adopted — the frontend manages user interaction and presentation, while backend API routes facilitate data handling and communication with the AI model for recipe generation. Each response is dynamically processed and displayed in a structured, user-friendly format.
+
+Comprehensive local testing was conducted to validate responsiveness, performance, and accuracy. The final deployment on Vercel ensured secure, scalable, and globally distributed hosting with automatic build and deployment pipelines.
+
+This project demonstrates proficiency in modern web development, API integration, and AI-based application design, reflecting both technical competence and independent problem-solving skills.
