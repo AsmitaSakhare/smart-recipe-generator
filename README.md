@@ -1,5 +1,8 @@
 # Smart Recipe Generator
 
+Live Demo:
+https://vercel.com/sakhareasmita4-gmailcoms-projects/smart-recipe-generator/9PapnS2ZxU1BUvnS9mgNjsyVHj8E
+
 An AI-powered Next.js app that suggests recipes from your ingredients, with nutrition, filters, ratings, favorites, and dietary preferences.
 
 Features:
